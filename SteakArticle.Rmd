@@ -1,5 +1,6 @@
 ---
 title: "Steak Preferences in the United States"
+subtitle: "Summary Report For the _**Mountain**_ Region"
 author: "Author: Adrián González"
 date: " `r format(Sys.Date(), '%A, %B %d, %Y')`"
 output: html_document
